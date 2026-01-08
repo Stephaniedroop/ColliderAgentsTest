@@ -1,0 +1,24 @@
+subject_id,rt,time_elapsed,prolific_id,cb,study_id,session_id,prob0,prob1,prob2,prob3,scenario,A,B,E,S,answer,comments,rowtype,trialtype
+6xlxjrgvsd,1234.5999999642372,230536,,1,,,80%,50%,10%,70%,cook,0,1,1,1,,,stim,d3
+6xlxjrgvsd,170991.69999998808,466580,,,,,,,,,,,,,,The dessert was not on the menu,,ans,d3
+6xlxjrgvsd,2581.599999964237,651917,,1,,,80%,50%,10%,70%,group,1,1,0,0,,,stim,c4
+6xlxjrgvsd,3332.899999976158,660206,,,,,,,,,,,,,,The second student had had a good morning,,ans,c4
+6xlxjrgvsd,1784,664926,,1,,,80%,50%,10%,50%,group,1,1,1,0,,,stim,c5
+6xlxjrgvsd,3499.399999976158,670693,,,,,,,,,,,,,,The first student had not had a good morning,,ans,c5
+6xlxjrgvsd,1185,674931,,1,,,80%,50%,10%,70%,cook,1,1,1,1,,,stim,d7
+6xlxjrgvsd,3016.600000023842,680317,,,,,,,,,,,,,,The person wanted to eat the main dish,,ans,d7
+6xlxjrgvsd,1317.5,685521,,1,,,80%,50%,10%,70%,cook,1,1,0,1,,,stim,d6
+6xlxjrgvsd,2617,690510,,,,,,,,,,,,,,The person did not want to eat the main dish,,ans,d6
+6xlxjrgvsd,1100.1000000238419,694842,,0,,,10%,70%,80%,50%,cook,0,0,0,1,,,stim,d1
+6xlxjrgvsd,2603,699880,,,,,,,,,,,,,,The person did not want to eat the dessert,,ans,d1
+6xlxjrgvsd,1065.699999988079,706099,,1,,,80%,50%,10%,70%,cook,1,0,0,0,,,stim,c3
+6xlxjrgvsd,2519.199999988079,710354,,,,,,,,,,,,,,The person did not want to eat the dessert,,ans,c3
+6xlxjrgvsd,1065.6000000238419,714737,,1,,,80%,50%,10%,70%,cook,0,1,0,0,,,stim,c2
+6xlxjrgvsd,2698.2999999523163,719791,,,,,,,,,,,,,,The person did not want to eat the dessert,,ans,c2
+6xlxjrgvsd,1899.1000000238419,725411,,0,,,10%,70%,80%,50%,job,0,1,0,1,,,stim,d2
+6xlxjrgvsd,3468,731030,,,,,,,,,,,,,,The files underlying Feature B were corrupted,,ans,d2
+6xlxjrgvsd,1014.2999999523163,735298,,0,,,10%,70%,80%,50%,group,1,0,0,1,,,stim,d4
+6xlxjrgvsd,2367.5,740103,,,,,,,,,,,,,,The second student had not had a good morning,,ans,d4
+6xlxjrgvsd,1132.5999999642372,744170,,1,,,80%,50%,10%,70%,job,0,0,0,0,,,stim,c1
+6xlxjrgvsd,2516.7999999523163,748440,,,,,,,,,,,,,,The files underlying Feature B were corrupted,,ans,c1
+6xlxjrgvsd,1198.4000000357628,754360,,1,,,80%,50%,10%,70%,job,1,0,1,1,,,stim,d5

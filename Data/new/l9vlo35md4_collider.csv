@@ -1,0 +1,25 @@
+subject_id,rt,time_elapsed,prolific_id,cb,study_id,session_id,prob0,prob1,prob2,prob3,scenario,A,B,E,S,answer,comments,rowtype,trialtype
+l9vlo35md4,18504,511952,5ecc6ffce3ca77849333e83e,1,6851b6145b9a58eb29d70934,6851bdfe3285586de59f7df2,80%,50%,10%,70%,group,1,1,0,1,,,stim,d6
+l9vlo35md4,24368,565241,5ecc6ffce3ca77849333e83e,,6851b6145b9a58eb29d70934,6851bdfe3285586de59f7df2,,,,,,,,,,The first student had not had a good morning,,ans,d6
+l9vlo35md4,28223,613528,5ecc6ffce3ca77849333e83e,1,6851b6145b9a58eb29d70934,6851bdfe3285586de59f7df2,80%,50%,10%,50%,job,0,1,0,0,,,stim,c2
+l9vlo35md4,43680,688000,5ecc6ffce3ca77849333e83e,,6851b6145b9a58eb29d70934,6851bdfe3285586de59f7df2,,,,,,,,,,The presenter did not present Feature A,,ans,c2
+l9vlo35md4,46352,786415,5ecc6ffce3ca77849333e83e,1,6851b6145b9a58eb29d70934,6851bdfe3285586de59f7df2,80%,50%,10%,50%,cook,1,1,0,0,,,stim,c4
+l9vlo35md4,68825,918094,5ecc6ffce3ca77849333e83e,,6851b6145b9a58eb29d70934,6851bdfe3285586de59f7df2,,,,,,,,,,The person did not want to eat the main dish,,ans,c4
+l9vlo35md4,15160,960533,5ecc6ffce3ca77849333e83e,1,6851b6145b9a58eb29d70934,6851bdfe3285586de59f7df2,50%,80%,50%,10%,group,0,1,0,1,,,stim,d2
+l9vlo35md4,6799,997557,5ecc6ffce3ca77849333e83e,,6851b6145b9a58eb29d70934,6851bdfe3285586de59f7df2,,,,,,,,,,The first student did not attend,,ans,d2
+l9vlo35md4,16528,1043213,5ecc6ffce3ca77849333e83e,1,6851b6145b9a58eb29d70934,6851bdfe3285586de59f7df2,80%,50%,10%,50%,group,1,0,1,1,,,stim,d5
+l9vlo35md4,51478,1133716,5ecc6ffce3ca77849333e83e,,6851b6145b9a58eb29d70934,6851bdfe3285586de59f7df2,,,,,,,,,,The first student had had a good morning,,ans,d5
+l9vlo35md4,21759,1172675,5ecc6ffce3ca77849333e83e,0,6851b6145b9a58eb29d70934,6851bdfe3285586de59f7df2,10%,70%,80%,50%,job,0,0,0,0,,,stim,c1
+l9vlo35md4,27752,1227418,5ecc6ffce3ca77849333e83e,,6851b6145b9a58eb29d70934,6851bdfe3285586de59f7df2,,,,,,,,,,The presented did not present Feature B,,ans,c1
+l9vlo35md4,33013,1265362,5ecc6ffce3ca77849333e83e,1,6851b6145b9a58eb29d70934,6851bdfe3285586de59f7df2,50%,80%,50%,10%,group,1,0,0,1,,,stim,d4
+l9vlo35md4,10839,1305658,5ecc6ffce3ca77849333e83e,,6851b6145b9a58eb29d70934,6851bdfe3285586de59f7df2,,,,,,,,,,The first student had had a good morning,,ans,d4
+l9vlo35md4,14167,1355858,5ecc6ffce3ca77849333e83e,1,6851b6145b9a58eb29d70934,6851bdfe3285586de59f7df2,50%,80%,50%,10%,group,0,1,1,1,,,stim,d3
+l9vlo35md4,8119,1376194,5ecc6ffce3ca77849333e83e,,6851b6145b9a58eb29d70934,6851bdfe3285586de59f7df2,,,,,,,,,,The second student had had a good morning,,ans,d3
+l9vlo35md4,46240,1457410,5ecc6ffce3ca77849333e83e,0,6851b6145b9a58eb29d70934,6851bdfe3285586de59f7df2,50%,10%,50%,80%,cook,0,0,0,1,,,stim,d1
+l9vlo35md4,8919,1523304,5ecc6ffce3ca77849333e83e,,6851b6145b9a58eb29d70934,6851bdfe3285586de59f7df2,,,,,,,,,,The dessert was not on the menu,,ans,d1
+l9vlo35md4,17152,1548769,5ecc6ffce3ca77849333e83e,0,6851b6145b9a58eb29d70934,6851bdfe3285586de59f7df2,50%,10%,50%,80%,job,1,0,0,0,,,stim,c3
+l9vlo35md4,6774,1572351,5ecc6ffce3ca77849333e83e,,6851b6145b9a58eb29d70934,6851bdfe3285586de59f7df2,,,,,,,,,,The presented did not present Feature B,,ans,c3
+l9vlo35md4,21302,1608623,5ecc6ffce3ca77849333e83e,1,6851b6145b9a58eb29d70934,6851bdfe3285586de59f7df2,80%,50%,10%,50%,job,1,1,1,1,,,stim,d7
+l9vlo35md4,34238,1672616,5ecc6ffce3ca77849333e83e,,6851b6145b9a58eb29d70934,6851bdfe3285586de59f7df2,,,,,,,,,,The files underlying Feature A were fine,,ans,d7
+l9vlo35md4,37857,1714664,5ecc6ffce3ca77849333e83e,0,6851b6145b9a58eb29d70934,6851bdfe3285586de59f7df2,50%,10%,50%,80%,cook,1,1,1,0,,,stim,c5
+l9vlo35md4,9279,1752358,5ecc6ffce3ca77849333e83e,,6851b6145b9a58eb29d70934,6851bdfe3285586de59f7df2,,,,,,,,,,The person wanted to eat the dessert,,ans,c5

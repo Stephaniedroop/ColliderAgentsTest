@@ -1,0 +1,19 @@
+subject_id,rt,time_elapsed,prolific_id,cb,study_id,session_id,prob0,prob1,prob2,prob3,scenario,A,B,E,S,answer,comments,rowtype,trialtype
+8wmlylbap3,8387,51272,,0,,,50%,10%,50%,80%,job,1,1,0,0,,,stim,c4
+8wmlylbap3,14072,77936,,,,,,,,,,,,,,The files underlying Feature A were corrupted,,ans,c4
+8wmlylbap3,6499,103414,,1,,,80%,50%,10%,50%,group,1,1,1,0,,,stim,c5
+8wmlylbap3,11087,124396,,,,,,,,,,,,,,The second student attended,,ans,c5
+8wmlylbap3,4285,132900,,1,,,50%,80%,50%,10%,group,0,1,0,1,,,stim,d2
+8wmlylbap3,4300,139487,,,,,,,,,,,,,,The second student attended,,ans,d2
+8wmlylbap3,1447,147642,,0,,,50%,10%,50%,80%,group,1,1,0,1,,,stim,d6
+8wmlylbap3,4231,153960,,,,,,,,,,,,,,The second student had not had a good morning,,ans,d6
+8wmlylbap3,1013,159262,,0,,,10%,70%,80%,50%,group,1,1,1,1,,,stim,d7
+8wmlylbap3,2933,164683,,,,,,,,,,,,,,The first student did not attend,,ans,d7
+8wmlylbap3,947,169451,,1,,,50%,80%,50%,10%,group,0,0,0,0,,,stim,c1
+8wmlylbap3,2984,174724,,,,,,,,,,,,,,The second student attended,,ans,c1
+8wmlylbap3,2700,181144,,0,,,50%,10%,50%,80%,group,1,0,0,1,,,stim,d4
+8wmlylbap3,3082,185829,,,,,,,,,,,,,,The second student had had a good morning,,ans,d4
+8wmlylbap3,981,192165,,0,,,10%,70%,80%,50%,group,1,0,0,0,,,stim,c3
+8wmlylbap3,3116,198036,,,,,,,,,,,,,,The first student did not attend,,ans,c3
+8wmlylbap3,2581,206773,,0,,,10%,70%,80%,50%,group,0,1,1,1,,,stim,d3
+8wmlylbap3,2985,211561,,,,,,,,,,,,,,The second student had had a good morning,,ans,d3

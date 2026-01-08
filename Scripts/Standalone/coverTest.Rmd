@@ -1,0 +1,160 @@
+---
+title: "cover_story_test"
+output:
+  html_document: default
+  pdf_document: default
+date: "2025-08-19"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+#library(tidyverse)
+```
+
+## A check to see if cover story affected answering
+
+[Here all the probabilties are shown from pgroup3: A=.1,Au=.7,B=.8,Bu=.5]
+
+There are three cover stories. In slightly condensed form, they are:
+
+> The situation is ... a person walking down a street full of cafes, looking for a place to eat. They have already decided what they want to eat: a main dish, a dessert, or both. They read the menus, and decide whether to enter and eat something. If the food is on the menu and they want to eat it, they will enter the cafe. [10%] of the cafes have main dishes and [80%] have desserts. The person wants to eat a main dish [70%] of the time and wants to eat a dessert [50%] of the time. The person enters the cafe to order if [either one / both ] of the main dish or dessert is on the menu and the person wants to eat what is on the menu.
+
+> The situation is ... an afternoon university seminar class. The class is compulsory, but two particular students only sometimes attend. These two students are intelligent, passionate, articulate and well-read. However, even when they attend, they are only in the mood to talk if they have had a good morning! (Their morning and hence their mood does not affect how likely they are to turn up; a bad morning just makes them quiet.) But if they attend and had a good morning, there will always be a good discussion. The first student attends [10%] of the time and the second student attends [80%] of the time. The first student has a good morning [70%] of the time, and the second student has a good morning [50%] of the time. A good discussion always happens when [either/both] student attends and had a good morning.
+
+> The situation is a work meeting, where a company is trying to sell a product to a client. The presenter introduces some features in a talk, and then opens files to demonstrate. However, the laptop files are sometimes randomly corrupted and fail to open! The presenter does not know in advance which files are corrupted. The product has Feature A and Feature B, and the client will always
+accept the product if they see a working demonstration of [either/both] feature[/s]. The company presents Feature A [10%] of the time and Feature B [80%] of the time. The underlying laptop files for Feature A are sometimes corrupted: they only work [70%] of the time, whether the feature is presented or not.
+The underlying laptop files for Feature B are sometimes corrupted: they only work [50%] of the time, whether the feature is presented or not.
+
+```{r, include=FALSE}
+load(here("Data", "Data.RData"))
+ansprops <- df2 %>% group_by(pgroup, trialtype, scenario, node3) %>% summarise(n=n())
+
+names <- c(1:4)
+ansprops[,names] <- lapply(ansprops[,names] , factor)
+
+groupprops <- ansprops %>% group_by(pgroup) %>% summarise(n=n()) # 194, 212, 210. Next try within trialtype?
+ttprops <- ansprops %>% group_by(pgroup, scenario, trialtype) %>% summarise(n=n()) # Each cell has 3-8, m+sd 5.7 + 1.14
+
+ttgrp <- ansprops %>% group_by(pgroup, trialtype) %>% summarise(n=n()) # 13-21, m+sd 17.1 +2.0
+```
+
+
+### STATISTICAL TEST
+
+I split the data up by pgroup, and by trialtype, then inside each ran a Fisher's exact test on the discrete numbers of choices of each variable, compared across the three cover stories. 
+
+
+```{r, include=FALSE}
+pgroups <- c('1', '2', '3')
+#pgroups <- c(1:3)
+trialtypes <- unique(ansprops$trialtype)
+```
+
+```{r, include=FALSE}
+pg1 <- ansprops %>% filter(pgroup==1, trialtype=='c1')
+pg1wide <- pg1 %>% 
+  pivot_wider(names_from = scenario, values_from = n, values_fill = 0)
+```
+
+```{r, include=FALSE}
+results_list <- list()
+
+for (pg in pgroups) {
+  for (tt in trialtypes) {
+    # Subset data for current combination 
+    subset_df <- ansprops %>%
+      filter(pgroup == pg, trialtype == tt)
+    
+    # Count occurrences of node3 by condition
+    #counts <- subset_df %>%
+      #count(node3, condition)
+    
+    # Widen the data
+    wide_df <- subset_df %>%
+      pivot_wider(names_from = scenario, values_from = n, values_fill = 0)
+    
+    # Convert to matrix for chisq.test
+    mat <- as.matrix(wide_df[,-(1:3)])  # exclude text columns for a sec
+    #row_sums <- rowSums(mat) # need to normalise because different totals may skew it
+    #mat2 <- sweep(mat, 1, row_sums, "/")
+    
+    # Assign row names (node3 categories)
+    rownames(mat) <- wide_df$node3
+    
+    if (all(dim(mat) > 1)) {
+      test_result <- fisher.test(mat, simulate.p.value = TRUE, B = 10000)
+      results_list[[paste(pg, tt, sep = "_")]] <- test_result
+    } else {
+      # Store NA if matrix too small for test
+      results_list[[paste(pg, tt, sep = "_")]] <- NA
+      
+    }
+  }
+}
+```
+  
+#### Results of the Fisher's exact test:  
+  
+```{r}
+  pvals <- sapply(results_list, function(x) if (is.list(x)) x$p.value else NA)
+print(pvals)
+```
+
+There are only two conditions where the cover stories make a difference at < 0.01: 2_d7 and 3_d7. (ie., both disjunctive A=1, B=1, E=1, which is the overdetermined 'most important' case). Trialtype d2 (A=0, B=1, E=0) also not robust. 
+
+In fact, the numbers are not comparable: because of the way the probabilities and cover stories were sampled rather than force divided and matched, perhaps there are more in some condition by a quirk of sampling? 
+
+So, use proportions instead of counts.
+
+Normalise and plot the proportions:
+
+
+```{r, include=FALSE}
+counts <- ansprops %>% group_by(pgroup, scenario, trialtype) %>% summarise(n=sum(n))
+counts <- counts %>% pivot_wider(names_from = scenario, values_from = n, values_fill = 0)
+```
+
+
+```{r, echo=FALSE}
+sm <- ansprops %>% filter(pgroup %in% c(2,3), trialtype == 'd7')
+smb <- sm %>% pivot_wider(names_from = node3, values_from = n, values_fill = 0)
+
+# Calculate row sums for columns 4 to 11
+row_sums <- rowSums(smb[, 4:11])
+smb2 <- smb
+
+# Normalize columns 4 to 11 by dividing by their row sums
+smb2[, 4:11] <- sweep(smb[, 4:11], 1, row_sums, FUN = "/")
+
+# Then go back to longer, urgh
+smb2l <- smb2 %>%
+  pivot_longer(
+    cols = 4:11,
+    names_to = "node3",   # name of the new column for the column names
+    values_to = "prop"      # name of the new column for the values
+  )
+
+ggplot(smb2l %>% filter(pgroup==2), 
+       aes(x = node3, y = prop, fill = scenario)) +
+  geom_bar(stat = "identity", position = position_dodge()) +
+  labs(x = "Node answered", y = "Prop of Answers", fill = "Cover story scenario", title = "Disjunctive: A=1,B=1,E=1 for A=.5,Au=.1,B=.5,Bu=.8") +
+  facet_wrap(~trialtype) +
+  theme_minimal() +
+  theme(panel.grid = element_blank(),
+               axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1)) 
+        
+
+ggplot(smb2l %>% filter(pgroup==3), 
+       aes(x = node3, y = prop, fill = scenario)) +
+  geom_bar(stat = "identity", position = position_dodge()) +
+  labs(x = "Node answered", y = "Prop of Answers", fill = "Cover story scenario", title = "Disjunctive: A=1,B=1,E=1 for A=.1,Au=.7,B=.8,Bu=.5") +
+  facet_wrap(~trialtype) +
+  theme_minimal() +
+  theme(panel.grid = element_blank(),
+               axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1))
+
+```
+
+There is still a slight difference where for this important trialtype (D111) the cover stories give rise to different participant behaviours. Especially odd that the cafe one (here called 'cook' for legacy reasons - that didn't affect what participants saw) and the job one are dissociated.
+
+If this was a serious difference, the next thing would be to compare with model predictions. It may also have reporting implications. But - on balance and discussion it can be ascribed to noise - it is not unheard of to have different proportions and we should not expect strictly uniform across the board.
