@@ -1,0 +1,25 @@
+subject_id,rt,time_elapsed,prolific_id,cb,study_id,session_id,prob0,prob1,prob2,prob3,scenario,A,B,E,S,answer,comments,rowtype,trialtype
+jcraknhzk2,33183,725561,6724e0bbeeaf3cc33c549ad5,0,6851b6145b9a58eb29d70934,6851be785dc45f8b6d8fc354,10%,50%,80%,50%,cook,1,1,0,1,,,stim,d6
+jcraknhzk2,100509.29999999702,877232,6724e0bbeeaf3cc33c549ad5,,6851b6145b9a58eb29d70934,6851be785dc45f8b6d8fc354,,,,,,,,,,The person wanted to eat the main dish,,ans,d6
+jcraknhzk2,14053.5,913687,6724e0bbeeaf3cc33c549ad5,1,6851b6145b9a58eb29d70934,6851be785dc45f8b6d8fc354,50%,80%,50%,10%,cook,1,0,1,1,,,stim,d5
+jcraknhzk2,14803.300000000745,936603,6724e0bbeeaf3cc33c549ad5,,6851b6145b9a58eb29d70934,6851be785dc45f8b6d8fc354,,,,,,,,,,The person wanted to eat the main dish,,ans,d5
+jcraknhzk2,13762.70000000298,994806,6724e0bbeeaf3cc33c549ad5,1,6851b6145b9a58eb29d70934,6851be785dc45f8b6d8fc354,80%,50%,10%,70%,group,1,0,0,0,,,stim,c3
+jcraknhzk2,15268.79999999702,1029346,6724e0bbeeaf3cc33c549ad5,,6851b6145b9a58eb29d70934,6851be785dc45f8b6d8fc354,,,,,,,,,,The first student attended,,ans,c3
+jcraknhzk2,6164.599999997765,1058598,6724e0bbeeaf3cc33c549ad5,1,6851b6145b9a58eb29d70934,6851be785dc45f8b6d8fc354,80%,50%,10%,50%,group,1,1,1,1,,,stim,d7
+jcraknhzk2,22571.300000000745,1096535,6724e0bbeeaf3cc33c549ad5,,6851b6145b9a58eb29d70934,6851be785dc45f8b6d8fc354,,,,,,,,,,The first student had had a good morning,,ans,d7
+jcraknhzk2,7874.89999999851,1114372,6724e0bbeeaf3cc33c549ad5,1,6851b6145b9a58eb29d70934,6851be785dc45f8b6d8fc354,80%,50%,10%,70%,group,0,1,0,0,,,stim,c2
+jcraknhzk2,17601.800000000745,1146084,6724e0bbeeaf3cc33c549ad5,,6851b6145b9a58eb29d70934,6851be785dc45f8b6d8fc354,,,,,,,,,,The second student had had a good morning,,ans,c2
+jcraknhzk2,11029.5,1174368,6724e0bbeeaf3cc33c549ad5,1,6851b6145b9a58eb29d70934,6851be785dc45f8b6d8fc354,50%,80%,50%,10%,cook,1,1,0,0,,,stim,c4
+jcraknhzk2,10922.599999997765,1196171,6724e0bbeeaf3cc33c549ad5,,6851b6145b9a58eb29d70934,6851be785dc45f8b6d8fc354,,,,,,,,,,The person wanted to eat the main dish,,ans,c4
+jcraknhzk2,33686,1258336,6724e0bbeeaf3cc33c549ad5,1,6851b6145b9a58eb29d70934,6851be785dc45f8b6d8fc354,80%,50%,10%,70%,job,0,0,0,1,,,stim,d1
+jcraknhzk2,23420.099999997765,1302514,6724e0bbeeaf3cc33c549ad5,,6851b6145b9a58eb29d70934,6851be785dc45f8b6d8fc354,,,,,,,,,,The files underlying Feature B were fine,,ans,d1
+jcraknhzk2,15484,1327429,6724e0bbeeaf3cc33c549ad5,0,6851b6145b9a58eb29d70934,6851be785dc45f8b6d8fc354,10%,70%,80%,50%,cook,1,1,1,0,,,stim,c5
+jcraknhzk2,12182.5,1350352,6724e0bbeeaf3cc33c549ad5,,6851b6145b9a58eb29d70934,6851be785dc45f8b6d8fc354,,,,,,,,,,The person wanted to eat the main dish,,ans,c5
+jcraknhzk2,9279.400000002235,1368964,6724e0bbeeaf3cc33c549ad5,1,6851b6145b9a58eb29d70934,6851be785dc45f8b6d8fc354,80%,50%,10%,70%,group,1,0,0,1,,,stim,d4
+jcraknhzk2,23047.400000002235,1397621,6724e0bbeeaf3cc33c549ad5,,6851b6145b9a58eb29d70934,6851be785dc45f8b6d8fc354,,,,,,,,,,The first student attended,,ans,d4
+jcraknhzk2,8723,1413750,6724e0bbeeaf3cc33c549ad5,0,6851b6145b9a58eb29d70934,6851be785dc45f8b6d8fc354,50%,10%,50%,80%,cook,0,0,0,0,,,stim,c1
+jcraknhzk2,19603.60000000149,1436959,6724e0bbeeaf3cc33c549ad5,,6851b6145b9a58eb29d70934,6851be785dc45f8b6d8fc354,,,,,,,,,,The person wanted to eat the dessert,,ans,c1
+jcraknhzk2,10606.900000002235,1452918,6724e0bbeeaf3cc33c549ad5,1,6851b6145b9a58eb29d70934,6851be785dc45f8b6d8fc354,80%,50%,10%,70%,cook,0,1,1,1,,,stim,d3
+jcraknhzk2,22305.39999999851,1480404,6724e0bbeeaf3cc33c549ad5,,6851b6145b9a58eb29d70934,6851be785dc45f8b6d8fc354,,,,,,,,,,The main dish was on the menu,,ans,d3
+jcraknhzk2,2794,1503194,6724e0bbeeaf3cc33c549ad5,1,6851b6145b9a58eb29d70934,6851be785dc45f8b6d8fc354,80%,50%,10%,70%,cook,0,1,0,1,,,stim,d2
+jcraknhzk2,10738.800000000745,1517358,6724e0bbeeaf3cc33c549ad5,,6851b6145b9a58eb29d70934,6851be785dc45f8b6d8fc354,,,,,,,,,,The main dish was on the menu,,ans,d2

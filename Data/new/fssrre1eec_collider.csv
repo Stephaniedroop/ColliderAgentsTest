@@ -1,0 +1,3 @@
+subject_id,rt,time_elapsed,prolific_id,cb,study_id,session_id,prob0,prob1,prob2,prob3,scenario,A,B,E,S,answer,comments,rowtype,trialtype
+fssrre1eec,1877.3999999761581,1742932,68377496f96ce6f7a5db2b58,0,6851b6145b9a58eb29d70934,6851bfa90b017bb7b08ef308,50%,10%,50%,80%,job,0,0,0,0,,,stim,c1
+fssrre1eec,841977.8999999762,2589115,68377496f96ce6f7a5db2b58,,6851b6145b9a58eb29d70934,6851bfa90b017bb7b08ef308,,,,,,,,,,The files underlying Feature A were corrupted,,ans,c1

@@ -1,0 +1,25 @@
+subject_id,rt,time_elapsed,prolific_id,cb,study_id,session_id,prob0,prob1,prob2,prob3,scenario,A,B,E,S,answer,comments,rowtype,trialtype
+rlhturprn4,11761.09999999404,288194,5ffb8c5b60571908f3ac19fa,1,6851b6145b9a58eb29d70934,6851be6311c2b3cae9e7bf8e,80%,50%,10%,50%,group,0,1,0,1,,,stim,d2
+rlhturprn4,12073.40000000596,316578,5ffb8c5b60571908f3ac19fa,,6851b6145b9a58eb29d70934,6851be6311c2b3cae9e7bf8e,,,,,,,,,,The second student had not had a good morning,,ans,d2
+rlhturprn4,19641.20000000298,350904,5ffb8c5b60571908f3ac19fa,1,6851b6145b9a58eb29d70934,6851be6311c2b3cae9e7bf8e,80%,50%,10%,70%,job,1,1,1,0,,,stim,c5
+rlhturprn4,55269.30000001192,428852,5ffb8c5b60571908f3ac19fa,,6851b6145b9a58eb29d70934,6851be6311c2b3cae9e7bf8e,,,,,,,,,,The files underlying Feature A were fine,,ans,c5
+rlhturprn4,12181.20000000298,457971,5ffb8c5b60571908f3ac19fa,1,6851b6145b9a58eb29d70934,6851be6311c2b3cae9e7bf8e,50%,80%,50%,10%,cook,1,1,0,1,,,stim,d6
+rlhturprn4,61775.40000000596,545318,5ffb8c5b60571908f3ac19fa,,6851b6145b9a58eb29d70934,6851be6311c2b3cae9e7bf8e,,,,,,,,,,The person did not want to eat the dessert,,ans,d6
+rlhturprn4,23749.20000000298,581785,5ffb8c5b60571908f3ac19fa,0,6851b6145b9a58eb29d70934,6851be6311c2b3cae9e7bf8e,50%,10%,50%,80%,job,1,1,1,1,,,stim,d7
+rlhturprn4,24245.5,619773,5ffb8c5b60571908f3ac19fa,,6851b6145b9a58eb29d70934,6851be6311c2b3cae9e7bf8e,,,,,,,,,,The files underlying Feature B were fine,,ans,d7
+rlhturprn4,13625.29999999702,657405,5ffb8c5b60571908f3ac19fa,1,6851b6145b9a58eb29d70934,6851be6311c2b3cae9e7bf8e,80%,50%,10%,50%,job,1,1,0,0,,,stim,c4
+rlhturprn4,52969.5,719461,5ffb8c5b60571908f3ac19fa,,6851b6145b9a58eb29d70934,6851be6311c2b3cae9e7bf8e,,,,,,,,,,The files underlying Feature A were corrupted,,ans,c4
+rlhturprn4,8071.100000008941,809122,5ffb8c5b60571908f3ac19fa,1,6851b6145b9a58eb29d70934,6851be6311c2b3cae9e7bf8e,80%,50%,10%,50%,group,0,1,0,0,,,stim,c2
+rlhturprn4,21161.19999998808,848205,5ffb8c5b60571908f3ac19fa,,6851b6145b9a58eb29d70934,6851be6311c2b3cae9e7bf8e,,,,,,,,,,The first student did not attend,,ans,c2
+rlhturprn4,13987.20000000298,873548,5ffb8c5b60571908f3ac19fa,0,6851b6145b9a58eb29d70934,6851be6311c2b3cae9e7bf8e,50%,10%,50%,80%,job,1,0,0,1,,,stim,d4
+rlhturprn4,15679.5,899751,5ffb8c5b60571908f3ac19fa,,6851b6145b9a58eb29d70934,6851be6311c2b3cae9e7bf8e,,,,,,,,,,The files underlying Feature A were corrupted,,ans,d4
+rlhturprn4,6481.29999999702,915104,5ffb8c5b60571908f3ac19fa,1,6851b6145b9a58eb29d70934,6851be6311c2b3cae9e7bf8e,80%,50%,10%,50%,cook,1,0,1,1,,,stim,d5
+rlhturprn4,8583.59999999404,932569,5ffb8c5b60571908f3ac19fa,,6851b6145b9a58eb29d70934,6851be6311c2b3cae9e7bf8e,,,,,,,,,,The person wanted to eat the main dish,,ans,d5
+rlhturprn4,6375.29999999702,951580,5ffb8c5b60571908f3ac19fa,1,6851b6145b9a58eb29d70934,6851be6311c2b3cae9e7bf8e,80%,50%,10%,70%,group,0,1,1,1,,,stim,d3
+rlhturprn4,9789.39999999106,970592,5ffb8c5b60571908f3ac19fa,,6851b6145b9a58eb29d70934,6851be6311c2b3cae9e7bf8e,,,,,,,,,,The second student had had a good morning,,ans,d3
+rlhturprn4,9601.20000000298,993990,5ffb8c5b60571908f3ac19fa,1,6851b6145b9a58eb29d70934,6851be6311c2b3cae9e7bf8e,80%,50%,10%,50%,job,0,0,0,0,,,stim,c1
+rlhturprn4,23507.5,1030134,5ffb8c5b60571908f3ac19fa,,6851b6145b9a58eb29d70934,6851be6311c2b3cae9e7bf8e,,,,,,,,,,The presenter did not present Feature A,,ans,c1
+rlhturprn4,8113.5,1049168,5ffb8c5b60571908f3ac19fa,0,6851b6145b9a58eb29d70934,6851be6311c2b3cae9e7bf8e,10%,70%,80%,50%,job,1,0,0,0,,,stim,c3
+rlhturprn4,12331.5,1073326,5ffb8c5b60571908f3ac19fa,,6851b6145b9a58eb29d70934,6851be6311c2b3cae9e7bf8e,,,,,,,,,,The presented did not present Feature B,,ans,c3
+rlhturprn4,17457.29999999702,1095084,5ffb8c5b60571908f3ac19fa,0,6851b6145b9a58eb29d70934,6851be6311c2b3cae9e7bf8e,10%,50%,80%,50%,cook,0,0,0,1,,,stim,d1
+rlhturprn4,32219.60000000894,1139004,5ffb8c5b60571908f3ac19fa,,6851b6145b9a58eb29d70934,6851be6311c2b3cae9e7bf8e,,,,,,,,,,The dessert was not on the menu,,ans,d1

@@ -1,0 +1,7 @@
+subject_id,rt,time_elapsed,prolific_id,cb,study_id,session_id,prob0,prob1,prob2,prob3,scenario,A,B,E,S,answer,comments,rowtype,trialtype
+442eyt51es,13494,949109,581e0aee4182b600017307ea,0,6851b6145b9a58eb29d70934,6851bddedad279f026699ac1,10%,70%,80%,50%,cook,1,1,0,1,,,stim,d6
+442eyt51es,130704,1138817,581e0aee4182b600017307ea,,6851b6145b9a58eb29d70934,6851bddedad279f026699ac1,,,,,,,,,,The person did not want to eat the dessert,,ans,d6
+442eyt51es,148267,1300691,581e0aee4182b600017307ea,1,6851b6145b9a58eb29d70934,6851bddedad279f026699ac1,50%,80%,50%,10%,cook,1,1,1,0,,,stim,c5
+442eyt51es,238812,1558207,581e0aee4182b600017307ea,,6851b6145b9a58eb29d70934,6851bddedad279f026699ac1,,,,,,,,,,The person wanted to eat the dessert,,ans,c5
+442eyt51es,139876,1712797,581e0aee4182b600017307ea,0,6851b6145b9a58eb29d70934,6851bddedad279f026699ac1,10%,70%,80%,50%,job,0,0,0,1,,,stim,d1
+442eyt51es,68940,1817071,581e0aee4182b600017307ea,,6851b6145b9a58eb29d70934,6851bddedad279f026699ac1,,,,,,,,,,The presented did not present Feature B,,ans,d1

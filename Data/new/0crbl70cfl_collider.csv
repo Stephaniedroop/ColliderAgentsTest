@@ -1,0 +1,13 @@
+subject_id,rt,time_elapsed,prolific_id,cb,study_id,session_id,prob0,prob1,prob2,prob3,scenario,A,B,E,S,answer,comments,rowtype,trialtype
+0crbl70cfl,18207,208734,,1,,,80%,50%,10%,50%,cook,1,0,0,1,,,stim,d4
+0crbl70cfl,10773,239500,,,,,,,,,,,,,,The person wanted to eat the dessert,,ans,d4
+0crbl70cfl,12518,276603,,0,,,50%,10%,50%,80%,group,1,0,1,1,,,stim,d5
+0crbl70cfl,33971,361036,,,,,,,,,,,,,,The second student attended,,ans,d5
+0crbl70cfl,14274,393873,,1,,,80%,50%,10%,50%,job,0,1,0,1,,,stim,d2
+0crbl70cfl,20225,450118,,,,,,,,,,,,,,The files underlying Feature A were fine,,ans,d2
+0crbl70cfl,2534,468395,,1,,,50%,80%,50%,10%,group,1,1,1,1,,,stim,d7
+0crbl70cfl,3151,479202,,,,,,,,,,,,,,The first student did not attend,,ans,d7
+0crbl70cfl,1400,517606,,1,,,80%,50%,10%,50%,job,0,0,0,0,,,stim,c1
+0crbl70cfl,3531,523175,,,,,,,,,,,,,,The presenter presented Feature A,,ans,c1
+0crbl70cfl,1064,528327,,0,,,10%,50%,80%,50%,group,0,1,1,1,,,stim,d3
+0crbl70cfl,5570,605406,,,,,,,,,,,,,,The first student attended,,ans,d3

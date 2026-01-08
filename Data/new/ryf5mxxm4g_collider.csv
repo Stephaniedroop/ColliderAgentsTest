@@ -1,0 +1,9 @@
+subject_id,rt,time_elapsed,prolific_id,cb,study_id,session_id,prob0,prob1,prob2,prob3,scenario,A,B,E,S,answer,comments,rowtype,trialtype
+ryf5mxxm4g,82725.69999999925,1712082,660dde2ea4ccc7fca5fbbedb,1,6851b6145b9a58eb29d70934,6851c177d82866f89db22cf6,80%,50%,10%,50%,group,0,1,1,1,,,stim,d3
+ryf5mxxm4g,122754.19999999925,2238716,660dde2ea4ccc7fca5fbbedb,,6851b6145b9a58eb29d70934,6851c177d82866f89db22cf6,,,,,,,,,,The second student had had a good morning,,ans,d3
+ryf5mxxm4g,14618,2420358,660dde2ea4ccc7fca5fbbedb,0,6851b6145b9a58eb29d70934,6851c177d82866f89db22cf6,50%,10%,50%,80%,group,1,0,0,0,,,stim,c3
+ryf5mxxm4g,127127.10000000149,2861414,660dde2ea4ccc7fca5fbbedb,,6851b6145b9a58eb29d70934,6851c177d82866f89db22cf6,,,,,,,,,,The second student did not attend,,ans,c3
+ryf5mxxm4g,15193.10000000149,3015878,660dde2ea4ccc7fca5fbbedb,0,6851b6145b9a58eb29d70934,6851c177d82866f89db22cf6,10%,50%,80%,50%,job,1,0,1,1,,,stim,d5
+ryf5mxxm4g,163436.40000000224,3566177,660dde2ea4ccc7fca5fbbedb,,6851b6145b9a58eb29d70934,6851c177d82866f89db22cf6,,,,,,,,,,The files underlying Feature A were fine,,ans,d5
+ryf5mxxm4g,19185,3717198,660dde2ea4ccc7fca5fbbedb,1,6851b6145b9a58eb29d70934,6851c177d82866f89db22cf6,80%,50%,10%,50%,cook,0,0,0,1,,,stim,d1
+ryf5mxxm4g,467614.40000000224,4424574,660dde2ea4ccc7fca5fbbedb,,6851b6145b9a58eb29d70934,6851c177d82866f89db22cf6,,,,,,,,,,The main dish was not on the menu,,ans,d1

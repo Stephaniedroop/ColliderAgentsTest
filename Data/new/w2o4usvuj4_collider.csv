@@ -1,0 +1,25 @@
+subject_id,rt,time_elapsed,prolific_id,cb,study_id,session_id,prob0,prob1,prob2,prob3,scenario,A,B,E,S,answer,comments,rowtype,trialtype
+w2o4usvuj4,10753.199999988079,900654,66ec53081cee4673ae883dce,1,6851b6145b9a58eb29d70934,6851be02abbefcafd0fc065f,80%,50%,10%,70%,cook,0,1,0,1,,,stim,d2
+w2o4usvuj4,41473.80000001192,967121,66ec53081cee4673ae883dce,,6851b6145b9a58eb29d70934,6851be02abbefcafd0fc065f,,,,,,,,,,The person did not want to eat the dessert,,ans,d2
+w2o4usvuj4,7673.9000000059605,990639,66ec53081cee4673ae883dce,0,6851b6145b9a58eb29d70934,6851be02abbefcafd0fc065f,50%,10%,50%,80%,cook,0,0,0,0,,,stim,c1
+w2o4usvuj4,28679.5,1049223,66ec53081cee4673ae883dce,,6851b6145b9a58eb29d70934,6851be02abbefcafd0fc065f,,,,,,,,,,The main dish was not on the menu,,ans,c1
+w2o4usvuj4,7854.399999991059,1084751,66ec53081cee4673ae883dce,0,6851b6145b9a58eb29d70934,6851be02abbefcafd0fc065f,10%,50%,80%,50%,job,0,0,0,1,,,stim,d1
+w2o4usvuj4,28430.20000000298,1164533,66ec53081cee4673ae883dce,,6851b6145b9a58eb29d70934,6851be02abbefcafd0fc065f,,,,,,,,,,The presenter did not present Feature A,,ans,d1
+w2o4usvuj4,8105.0999999940395,1190013,66ec53081cee4673ae883dce,0,6851b6145b9a58eb29d70934,6851be02abbefcafd0fc065f,50%,10%,50%,80%,job,0,1,0,0,,,stim,c2
+w2o4usvuj4,7701.5,1224117,66ec53081cee4673ae883dce,,6851b6145b9a58eb29d70934,6851be02abbefcafd0fc065f,,,,,,,,,,The presenter did not present Feature A,,ans,c2
+w2o4usvuj4,12565.29999999702,1247256,66ec53081cee4673ae883dce,0,6851b6145b9a58eb29d70934,6851be02abbefcafd0fc065f,10%,50%,80%,50%,group,1,0,0,1,,,stim,d4
+w2o4usvuj4,26185.10000000894,1338057,66ec53081cee4673ae883dce,,6851b6145b9a58eb29d70934,6851be02abbefcafd0fc065f,,,,,,,,,,The second student had not had a good morning,,ans,d4
+w2o4usvuj4,13825.39999999106,1367250,66ec53081cee4673ae883dce,0,6851b6145b9a58eb29d70934,6851be02abbefcafd0fc065f,50%,10%,50%,80%,cook,0,1,1,1,,,stim,d3
+w2o4usvuj4,14508.59999999404,1402129,66ec53081cee4673ae883dce,,6851b6145b9a58eb29d70934,6851be02abbefcafd0fc065f,,,,,,,,,,The person wanted to eat the dessert,,ans,d3
+w2o4usvuj4,5659.5999999940395,1416968,66ec53081cee4673ae883dce,1,6851b6145b9a58eb29d70934,6851be02abbefcafd0fc065f,80%,50%,10%,70%,cook,1,0,0,0,,,stim,c3
+w2o4usvuj4,9501.39999999106,1446620,66ec53081cee4673ae883dce,,6851b6145b9a58eb29d70934,6851be02abbefcafd0fc065f,,,,,,,,,,The person wanted to eat the dessert,,ans,c3
+w2o4usvuj4,10659,1474018,66ec53081cee4673ae883dce,0,6851b6145b9a58eb29d70934,6851be02abbefcafd0fc065f,10%,50%,80%,50%,cook,1,1,1,1,,,stim,d7
+w2o4usvuj4,6672.399999991059,1502204,66ec53081cee4673ae883dce,,6851b6145b9a58eb29d70934,6851be02abbefcafd0fc065f,,,,,,,,,,The person wanted to eat the dessert,,ans,d7
+w2o4usvuj4,6015.29999999702,1515503,66ec53081cee4673ae883dce,0,6851b6145b9a58eb29d70934,6851be02abbefcafd0fc065f,50%,10%,50%,80%,cook,1,0,1,1,,,stim,d5
+w2o4usvuj4,89504.89999999106,1618492,66ec53081cee4673ae883dce,,6851b6145b9a58eb29d70934,6851be02abbefcafd0fc065f,,,,,,,,,,The person wanted to eat the dessert,,ans,d5
+w2o4usvuj4,6424.5999999940395,1638361,66ec53081cee4673ae883dce,0,6851b6145b9a58eb29d70934,6851be02abbefcafd0fc065f,50%,10%,50%,80%,cook,1,1,0,1,,,stim,d6
+w2o4usvuj4,78164.59999999404,1732620,66ec53081cee4673ae883dce,,6851b6145b9a58eb29d70934,6851be02abbefcafd0fc065f,,,,,,,,,,The person did not want to eat the main dish,,ans,d6
+w2o4usvuj4,6185.5,1748029,66ec53081cee4673ae883dce,1,6851b6145b9a58eb29d70934,6851be02abbefcafd0fc065f,50%,80%,50%,10%,cook,1,1,1,0,,,stim,c5
+w2o4usvuj4,23134.19999998808,1791066,66ec53081cee4673ae883dce,,6851b6145b9a58eb29d70934,6851be02abbefcafd0fc065f,,,,,,,,,,The person wanted to eat the main dish,,ans,c5
+w2o4usvuj4,983,1795556,66ec53081cee4673ae883dce,1,6851b6145b9a58eb29d70934,6851be02abbefcafd0fc065f,50%,80%,50%,10%,cook,1,1,0,0,,,stim,c4
+w2o4usvuj4,6663.100000008941,1804940,66ec53081cee4673ae883dce,,6851b6145b9a58eb29d70934,6851be02abbefcafd0fc065f,,,,,,,,,,The person wanted to eat the dessert,,ans,c4

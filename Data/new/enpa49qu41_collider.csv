@@ -1,0 +1,25 @@
+subject_id,rt,time_elapsed,prolific_id,cb,study_id,session_id,prob0,prob1,prob2,prob3,scenario,A,B,E,S,answer,comments,rowtype,trialtype
+enpa49qu41,26717,410997,6736cd9a54b7adfcf6cceb0a,0,6851b6145b9a58eb29d70934,6851c197e90ccc673ffc4006,50%,10%,50%,80%,group,1,1,0,0,,,stim,c4
+enpa49qu41,56640,510714,6736cd9a54b7adfcf6cceb0a,,6851b6145b9a58eb29d70934,6851c197e90ccc673ffc4006,,,,,,,,,,The first student had not had a good morning,,ans,c4
+enpa49qu41,17399,546162,6736cd9a54b7adfcf6cceb0a,0,6851b6145b9a58eb29d70934,6851c197e90ccc673ffc4006,10%,70%,80%,50%,cook,0,1,1,1,,,stim,d3
+enpa49qu41,33967,604387,6736cd9a54b7adfcf6cceb0a,,6851b6145b9a58eb29d70934,6851c197e90ccc673ffc4006,,,,,,,,,,The person wanted to eat the dessert,,ans,d3
+enpa49qu41,20142,638404,6736cd9a54b7adfcf6cceb0a,1,6851b6145b9a58eb29d70934,6851c197e90ccc673ffc4006,50%,80%,50%,10%,job,1,1,1,1,,,stim,d7
+enpa49qu41,48118,701126,6736cd9a54b7adfcf6cceb0a,,6851b6145b9a58eb29d70934,6851c197e90ccc673ffc4006,,,,,,,,,,The files underlying Feature B were fine,,ans,d7
+enpa49qu41,9566,720663,6736cd9a54b7adfcf6cceb0a,0,6851b6145b9a58eb29d70934,6851c197e90ccc673ffc4006,10%,50%,80%,50%,group,0,0,0,1,,,stim,d1
+enpa49qu41,31126,763688,6736cd9a54b7adfcf6cceb0a,,6851b6145b9a58eb29d70934,6851c197e90ccc673ffc4006,,,,,,,,,,The first student did not attend,,ans,d1
+enpa49qu41,46199,825042,6736cd9a54b7adfcf6cceb0a,0,6851b6145b9a58eb29d70934,6851c197e90ccc673ffc4006,10%,70%,80%,50%,group,0,1,0,1,,,stim,d2
+enpa49qu41,27438,930022,6736cd9a54b7adfcf6cceb0a,,6851b6145b9a58eb29d70934,6851c197e90ccc673ffc4006,,,,,,,,,,The first student did not attend,,ans,d2
+enpa49qu41,16278,954407,6736cd9a54b7adfcf6cceb0a,0,6851b6145b9a58eb29d70934,6851c197e90ccc673ffc4006,50%,10%,50%,80%,cook,0,0,0,0,,,stim,c1
+enpa49qu41,47703,1017049,6736cd9a54b7adfcf6cceb0a,,6851b6145b9a58eb29d70934,6851c197e90ccc673ffc4006,,,,,,,,,,The person wanted to eat the dessert,,ans,c1
+enpa49qu41,10048,1031937,6736cd9a54b7adfcf6cceb0a,0,6851b6145b9a58eb29d70934,6851c197e90ccc673ffc4006,50%,10%,50%,80%,job,1,1,1,0,,,stim,c5
+enpa49qu41,10368,1057346,6736cd9a54b7adfcf6cceb0a,,6851b6145b9a58eb29d70934,6851c197e90ccc673ffc4006,,,,,,,,,,The files underlying Feature A were fine,,ans,c5
+enpa49qu41,6398,1070849,6736cd9a54b7adfcf6cceb0a,1,6851b6145b9a58eb29d70934,6851c197e90ccc673ffc4006,80%,50%,10%,50%,job,1,0,0,1,,,stim,d4
+enpa49qu41,28008,1113076,6736cd9a54b7adfcf6cceb0a,,6851b6145b9a58eb29d70934,6851c197e90ccc673ffc4006,,,,,,,,,,The files underlying Feature A were corrupted,,ans,d4
+enpa49qu41,11519,1135972,6736cd9a54b7adfcf6cceb0a,0,6851b6145b9a58eb29d70934,6851c197e90ccc673ffc4006,10%,50%,80%,50%,cook,1,1,0,1,,,stim,d6
+enpa49qu41,51535,1200343,6736cd9a54b7adfcf6cceb0a,,6851b6145b9a58eb29d70934,6851c197e90ccc673ffc4006,,,,,,,,,,The person did not want to eat the dessert,,ans,d6
+enpa49qu41,12982,1218647,6736cd9a54b7adfcf6cceb0a,1,6851b6145b9a58eb29d70934,6851c197e90ccc673ffc4006,50%,80%,50%,10%,cook,0,1,0,0,,,stim,c2
+enpa49qu41,33743,1265952,6736cd9a54b7adfcf6cceb0a,,6851b6145b9a58eb29d70934,6851c197e90ccc673ffc4006,,,,,,,,,,The main dish was not on the menu,,ans,c2
+enpa49qu41,11177,1285027,6736cd9a54b7adfcf6cceb0a,1,6851b6145b9a58eb29d70934,6851c197e90ccc673ffc4006,50%,80%,50%,10%,group,1,0,0,0,,,stim,c3
+enpa49qu41,15807,1311026,6736cd9a54b7adfcf6cceb0a,,6851b6145b9a58eb29d70934,6851c197e90ccc673ffc4006,,,,,,,,,,The second student did not attend,,ans,c3
+enpa49qu41,18813,1350178,6736cd9a54b7adfcf6cceb0a,0,6851b6145b9a58eb29d70934,6851c197e90ccc673ffc4006,10%,50%,80%,50%,job,1,0,1,1,,,stim,d5
+enpa49qu41,5135,1364404,6736cd9a54b7adfcf6cceb0a,,6851b6145b9a58eb29d70934,6851c197e90ccc673ffc4006,,,,,,,,,,The files underlying Feature A were fine,,ans,d5

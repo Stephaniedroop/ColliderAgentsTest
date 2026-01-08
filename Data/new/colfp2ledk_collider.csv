@@ -1,0 +1,25 @@
+subject_id,rt,time_elapsed,prolific_id,cb,study_id,session_id,prob0,prob1,prob2,prob3,scenario,A,B,E,S,answer,comments,rowtype,trialtype
+colfp2ledk,30947,1033400,67c7e22dc6cfbb2a879fd8e1,0,6851b6145b9a58eb29d70934,6851be1eeef121f314a451cf,10%,70%,80%,50%,job,0,1,0,0,,,stim,c2
+colfp2ledk,165331,1250798,67c7e22dc6cfbb2a879fd8e1,,6851b6145b9a58eb29d70934,6851be1eeef121f314a451cf,,,,,,,,,,The presenter did not present Feature A,,ans,c2
+colfp2ledk,14832,1336463,67c7e22dc6cfbb2a879fd8e1,0,6851b6145b9a58eb29d70934,6851be1eeef121f314a451cf,10%,50%,80%,50%,group,1,0,0,0,,,stim,c3
+colfp2ledk,52753,1446586,67c7e22dc6cfbb2a879fd8e1,,6851b6145b9a58eb29d70934,6851be1eeef121f314a451cf,,,,,,,,,,The second student did not attend,,ans,c3
+colfp2ledk,21068,1487740,67c7e22dc6cfbb2a879fd8e1,0,6851b6145b9a58eb29d70934,6851be1eeef121f314a451cf,10%,70%,80%,50%,job,1,1,0,1,,,stim,d6
+colfp2ledk,75798,1605712,67c7e22dc6cfbb2a879fd8e1,,6851b6145b9a58eb29d70934,6851be1eeef121f314a451cf,,,,,,,,,,The files underlying Feature B were corrupted,,ans,d6
+colfp2ledk,14061,1639545,67c7e22dc6cfbb2a879fd8e1,0,6851b6145b9a58eb29d70934,6851be1eeef121f314a451cf,10%,50%,80%,50%,group,1,0,0,1,,,stim,d4
+colfp2ledk,52716,1743344,67c7e22dc6cfbb2a879fd8e1,,6851b6145b9a58eb29d70934,6851be1eeef121f314a451cf,,,,,,,,,,The first student had not had a good morning,,ans,d4
+colfp2ledk,28410,1785941,67c7e22dc6cfbb2a879fd8e1,0,6851b6145b9a58eb29d70934,6851be1eeef121f314a451cf,10%,70%,80%,50%,cook,0,0,0,1,,,stim,d1
+colfp2ledk,51461,1870493,67c7e22dc6cfbb2a879fd8e1,,6851b6145b9a58eb29d70934,6851be1eeef121f314a451cf,,,,,,,,,,The dessert was not on the menu,,ans,d1
+colfp2ledk,19662,1905045,67c7e22dc6cfbb2a879fd8e1,1,6851b6145b9a58eb29d70934,6851be1eeef121f314a451cf,50%,80%,50%,10%,cook,1,0,1,1,,,stim,d5
+colfp2ledk,63872,1995933,67c7e22dc6cfbb2a879fd8e1,,6851b6145b9a58eb29d70934,6851be1eeef121f314a451cf,,,,,,,,,,The person wanted to eat the main dish,,ans,d5
+colfp2ledk,10805,2020931,67c7e22dc6cfbb2a879fd8e1,1,6851b6145b9a58eb29d70934,6851be1eeef121f314a451cf,50%,80%,50%,10%,cook,0,1,0,1,,,stim,d2
+colfp2ledk,53719,2096775,67c7e22dc6cfbb2a879fd8e1,,6851b6145b9a58eb29d70934,6851be1eeef121f314a451cf,,,,,,,,,,The person did not want to eat the dessert,,ans,d2
+colfp2ledk,10246,2119724,67c7e22dc6cfbb2a879fd8e1,1,6851b6145b9a58eb29d70934,6851be1eeef121f314a451cf,50%,80%,50%,10%,group,1,1,1,1,,,stim,d7
+colfp2ledk,33116,2180691,67c7e22dc6cfbb2a879fd8e1,,6851b6145b9a58eb29d70934,6851be1eeef121f314a451cf,,,,,,,,,,The first student had had a good morning,,ans,d7
+colfp2ledk,16448,2208972,67c7e22dc6cfbb2a879fd8e1,0,6851b6145b9a58eb29d70934,6851be1eeef121f314a451cf,10%,70%,80%,50%,job,1,1,0,0,,,stim,c4
+colfp2ledk,54684,2283056,67c7e22dc6cfbb2a879fd8e1,,6851b6145b9a58eb29d70934,6851be1eeef121f314a451cf,,,,,,,,,,The files underlying Feature B were corrupted,,ans,c4
+colfp2ledk,12029,2306888,67c7e22dc6cfbb2a879fd8e1,0,6851b6145b9a58eb29d70934,6851be1eeef121f314a451cf,50%,10%,50%,80%,job,1,1,1,0,,,stim,c5
+colfp2ledk,63499,2392888,67c7e22dc6cfbb2a879fd8e1,,6851b6145b9a58eb29d70934,6851be1eeef121f314a451cf,,,,,,,,,,The files underlying Feature A were fine,,ans,c5
+colfp2ledk,12166,2416521,67c7e22dc6cfbb2a879fd8e1,1,6851b6145b9a58eb29d70934,6851be1eeef121f314a451cf,50%,80%,50%,10%,cook,0,1,1,1,,,stim,d3
+colfp2ledk,37025,2474562,67c7e22dc6cfbb2a879fd8e1,,6851b6145b9a58eb29d70934,6851be1eeef121f314a451cf,,,,,,,,,,The person wanted to eat the dessert,,ans,d3
+colfp2ledk,11950,2498311,67c7e22dc6cfbb2a879fd8e1,0,6851b6145b9a58eb29d70934,6851be1eeef121f314a451cf,10%,70%,80%,50%,cook,0,0,0,0,,,stim,c1
+colfp2ledk,44051,2567819,67c7e22dc6cfbb2a879fd8e1,,6851b6145b9a58eb29d70934,6851be1eeef121f314a451cf,,,,,,,,,,The main dish was not on the menu,,ans,c1

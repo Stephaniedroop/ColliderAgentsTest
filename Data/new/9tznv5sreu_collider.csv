@@ -1,0 +1,25 @@
+subject_id,rt,time_elapsed,prolific_id,cb,study_id,session_id,prob0,prob1,prob2,prob3,scenario,A,B,E,S,answer,comments,rowtype,trialtype
+9tznv5sreu,19061.60000000894,1417815,675a2ef45fbe0cc52b8403ae,1,6851b6145b9a58eb29d70934,6851c35aabbddf0baaf1da56,80%,50%,10%,70%,job,1,1,0,0,,,stim,c4
+9tznv5sreu,44494.09999999404,1475366,675a2ef45fbe0cc52b8403ae,,6851b6145b9a58eb29d70934,6851c35aabbddf0baaf1da56,,,,,,,,,,The presenter presented Feature A,,ans,c4
+9tznv5sreu,7622.20000000298,1491326,675a2ef45fbe0cc52b8403ae,1,6851b6145b9a58eb29d70934,6851c35aabbddf0baaf1da56,50%,80%,50%,10%,job,1,0,0,0,,,stim,c3
+9tznv5sreu,17926.80000001192,1522774,675a2ef45fbe0cc52b8403ae,,6851b6145b9a58eb29d70934,6851c35aabbddf0baaf1da56,,,,,,,,,,The presented presented Feature B,,ans,c3
+9tznv5sreu,2973.9000000059605,1536485,675a2ef45fbe0cc52b8403ae,0,6851b6145b9a58eb29d70934,6851c35aabbddf0baaf1da56,50%,10%,50%,80%,job,0,0,0,0,,,stim,c1
+9tznv5sreu,21086.70000000298,1559701,675a2ef45fbe0cc52b8403ae,,6851b6145b9a58eb29d70934,6851c35aabbddf0baaf1da56,,,,,,,,,,The presenter did not present Feature A,,ans,c1
+9tznv5sreu,1949.4000000059605,1595892,675a2ef45fbe0cc52b8403ae,1,6851b6145b9a58eb29d70934,6851c35aabbddf0baaf1da56,80%,50%,10%,50%,job,0,0,0,1,,,stim,d1
+9tznv5sreu,22981.60000000894,1620964,675a2ef45fbe0cc52b8403ae,,6851b6145b9a58eb29d70934,6851c35aabbddf0baaf1da56,,,,,,,,,,The presented did not present Feature B,,ans,d1
+9tznv5sreu,1062.0999999940395,1625308,675a2ef45fbe0cc52b8403ae,1,6851b6145b9a58eb29d70934,6851c35aabbddf0baaf1da56,80%,50%,10%,70%,group,0,1,1,1,,,stim,d3
+9tznv5sreu,4956.4000000059605,1634020,675a2ef45fbe0cc52b8403ae,,6851b6145b9a58eb29d70934,6851c35aabbddf0baaf1da56,,,,,,,,,,The second student had had a good morning,,ans,d3
+9tznv5sreu,998,1640947,675a2ef45fbe0cc52b8403ae,0,6851b6145b9a58eb29d70934,6851c35aabbddf0baaf1da56,10%,50%,80%,50%,job,0,1,0,1,,,stim,d2
+9tznv5sreu,14639,1657388,675a2ef45fbe0cc52b8403ae,,6851b6145b9a58eb29d70934,6851c35aabbddf0baaf1da56,,,,,,,,,,The presented did not present Feature B,,ans,d2
+9tznv5sreu,982.1000000089407,1663323,675a2ef45fbe0cc52b8403ae,1,6851b6145b9a58eb29d70934,6851c35aabbddf0baaf1da56,80%,50%,10%,50%,cook,1,1,1,1,,,stim,d7
+9tznv5sreu,4263.100000008941,1670669,675a2ef45fbe0cc52b8403ae,,6851b6145b9a58eb29d70934,6851c35aabbddf0baaf1da56,,,,,,,,,,The main dish was not on the menu,,ans,d7
+9tznv5sreu,1285.5,1695099,675a2ef45fbe0cc52b8403ae,1,6851b6145b9a58eb29d70934,6851c35aabbddf0baaf1da56,50%,80%,50%,10%,cook,1,0,1,1,,,stim,d5
+9tznv5sreu,5023,1722091,675a2ef45fbe0cc52b8403ae,,6851b6145b9a58eb29d70934,6851c35aabbddf0baaf1da56,,,,,,,,,,The dessert was on the menu,,ans,d5
+9tznv5sreu,3719.199999988079,1732011,675a2ef45fbe0cc52b8403ae,0,6851b6145b9a58eb29d70934,6851c35aabbddf0baaf1da56,10%,50%,80%,50%,job,1,0,0,1,,,stim,d4
+9tznv5sreu,6038.79999999702,1739779,675a2ef45fbe0cc52b8403ae,,6851b6145b9a58eb29d70934,6851c35aabbddf0baaf1da56,,,,,,,,,,The files underlying Feature A were corrupted,,ans,d4
+9tznv5sreu,1078,1744626,675a2ef45fbe0cc52b8403ae,0,6851b6145b9a58eb29d70934,6851c35aabbddf0baaf1da56,10%,50%,80%,50%,group,0,1,0,0,,,stim,c2
+9tznv5sreu,15558.70000000298,1763450,675a2ef45fbe0cc52b8403ae,,6851b6145b9a58eb29d70934,6851c35aabbddf0baaf1da56,,,,,,,,,,The second student attended,,ans,c2
+9tznv5sreu,1126.2999999970198,1768530,675a2ef45fbe0cc52b8403ae,0,6851b6145b9a58eb29d70934,6851c35aabbddf0baaf1da56,10%,50%,80%,50%,group,1,1,0,1,,,stim,d6
+9tznv5sreu,13662.70000000298,1785114,675a2ef45fbe0cc52b8403ae,,6851b6145b9a58eb29d70934,6851c35aabbddf0baaf1da56,,,,,,,,,,The first student had not had a good morning,,ans,d6
+9tznv5sreu,1222.2000000029802,1789882,675a2ef45fbe0cc52b8403ae,1,6851b6145b9a58eb29d70934,6851c35aabbddf0baaf1da56,50%,80%,50%,10%,cook,1,1,1,0,,,stim,c5
+9tznv5sreu,7734.9000000059605,1799434,675a2ef45fbe0cc52b8403ae,,6851b6145b9a58eb29d70934,6851c35aabbddf0baaf1da56,,,,,,,,,,The person wanted to eat the main dish,,ans,c5
